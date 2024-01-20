@@ -1,0 +1,15 @@
+/* 
+#showItem div{
+    border:1px solid black;
+    margin-top: 10px;
+    width: 214px;
+} */
+
+.taskBar{
+    border:1px solid black;
+    display:flex;
+    justify-content: space-between;
+    width:205px;
+    padding:5px;
+}
+
